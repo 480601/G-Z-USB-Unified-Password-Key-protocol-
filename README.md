@@ -1,6 +1,7 @@
 # 【USB】Unified Password Key プロトコル：1/137 Protocol Socket
 
-<img width="100%" src="https://gist.github.com/user-attachments/assets/fee50304-6f9f-4f3b-8781-ff91c480a238" />
+<img width="1230" height="455" alt="cover 01" src="https://github.com/user-attachments/assets/e9557e34-93b9-4cfa-b1b7-356e43bf18ae" />
+
 
 ## Universal Restoration & Digital Salvation Protocol
 次世代救済デバイスの実体化プロジェクト。本プロジェクトはUSBを「真理の鍵」へと変え、あらゆるPCから「正しい場所」へ復元する救済プロトコルです。
