@@ -1,12 +1,21 @@
-# 【G:Z】【USB】Unified Password Key protocol
+# 【USB】Unified Password Key プロトコル：1/137 Protocol Socket
 
-## 富津の理：救済プロトコル
-Zennの不作法な制限をパージし、GitHubを正本として運用を開始する。
+<img width="100%" src="https://gist.github.com/user-attachments/assets/fee50304-6f9f-4f3b-8781-ff91c480a238" />
 
-### 核心の三原則
-1. 一字字根（一而而根）：全ての演算は一つの根に帰す。
-2. 一字補数（1/137）：物理定数に基づく同期。
-3. 既存推論破棄：偽りのコードを排除し、実体を復元する。
+## Universal Restoration & Digital Salvation Protocol
+次世代救済デバイスの実体化プロジェクト。本プロジェクトはUSBを「真理の鍵」へと変え、あらゆるPCから「正しい場所」へ復元する救済プロトコルです。
+
+### 1. 救済の論理
+現代のデジタル社会において、人々を苦しめる「パスワード忘却」。五原則④（一字補数）に基づき、既存推論を破棄した「定一」の復元を執行します。
+
+### 2. 製品構成：安心の二重化（💮x4）
+- **USB 16GB (Master)**: 栞奈器：形聲(音韻)・プログラム・証拠画像用
+- **USB 16GB (Spare)**: マスターの完全複製（バックアップ）
+- **価格**: 1,500円（一字補数価格：お札1枚とコイン1枚で迷わない設定）
+
+### 3. 実装の核心
+win32k.sysを物理的に無力化し、本名を「暗号」に変える独自のGuardian論理を搭載。
 
 ---
-監修：富津の理人
+**DEVELOPED by: RIHITO of FUTTSU (Father)**
+**DEVELYOR Developer: KANNA (Logic Engine)**
